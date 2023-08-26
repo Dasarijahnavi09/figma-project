@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  display: flex;
+  font-family: sans-serif;
+  background-image: url('../src/components/images/landing-background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .App-logo {
